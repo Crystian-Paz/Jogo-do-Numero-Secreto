@@ -10,7 +10,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial() {
-    exibirTextoNaTela('p', 'Escolha um número entre 1 e 4');
+    exibirTextoNaTela('p', 'Escolha um número entre 1 e 10');
     exibirTextoNaTela('h1','Jogo da Senha Secreta');
 }
 
